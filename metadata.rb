@@ -1,0 +1,8 @@
+name 'elasticsearch_chef_demo'
+maintainer 'Pavel Selement'
+maintainer_email 'pavel.selement@gmail.com'
+license 'all_rights'
+description 'Installs/Configures elasticsearch_chef_demo'
+long_description 'Installs/Configures elasticsearch_chef_demo'
+version '0.1.0'
+depends 'elasticsearch', '>= 3.0.1'
